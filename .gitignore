@@ -2,3 +2,22 @@ model/__pycache__
 out
 website/
 docs-minimind/
+
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.envrc
+.env
+
+# Custom directories
+MiniMind2-PyTorch/
+MiniMind2/
+minimind_dataset/
+
+# Dataset files (you can comment out specific ones you want to track)
+dataset/*.jsonl
+dataset/__pycache__/
+trainer/__pycache__/
