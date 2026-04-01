@@ -24,3 +24,5 @@ dataset/*.jsonl
 dataset/__pycache__/
 trainer/__pycache__/
 internlm2-1_8b-reward/
+.vscode/launch.json
+arch_info
